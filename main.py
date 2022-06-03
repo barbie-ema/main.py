@@ -40,5 +40,5 @@ while True:
       break
 
 
-print("\nThanks for playing")
+print("\nThanks for playing", "\U0001F60D")
         
