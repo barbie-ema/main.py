@@ -2,6 +2,8 @@ import random
 
 print('Welcome Player To Rock,Paper and Scissors',"\U0001F60D")
 print('Kindy pick Rock(R), Paper(P), Scissors(S)')
+opt = {'R':'Rock',
+'S': 'Scissors', 'P':'Paper'}
 
 while True:
   user_input = input("Enter a choice R, P, S: ")
